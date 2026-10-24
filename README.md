@@ -6,13 +6,13 @@ I’m **alvinfunborn**. I build open-source tools for the things that keep getti
 
 ### Attend — find the task, pick up the thread
 
-A local console for AI coding sessions. Organize work with **tags and custom labels**, follow session trees and comments, and see what needs your attention across multiple coding agents.
+A local console for AI coding sessions. Organize work with **tags and custom labels**, scan a **multi-column workspace** on a wide screen, follow session trees and comments, and see what needs your attention across multiple coding agents.
 
 [Website & interactive tour](https://alvinfunborn.github.io/attend/) · [Source](https://github.com/alvinfunborn/attend) · [Getting started](https://github.com/alvinfunborn/attend#quick-start)
 
-<a href="https://alvinfunborn.github.io/attend/"><img src="https://raw.githubusercontent.com/alvinfunborn/attend/main/docs/assets/attend-console-demo.jpg" width="800" alt="Attend’s native console with task labels, analysis, session structure and conversation controls"></a>
+<a href="https://alvinfunborn.github.io/attend/"><img src="https://raw.githubusercontent.com/alvinfunborn/attend/main/docs/assets/attend-console-demo.jpg" width="800" alt="Attend’s 3440 × 1440 native workspace with six session columns, task analysis, labels and conversation controls"></a>
 
-*Native console with illustrative demo data.*
+*3440 × 1440 native workspace with six session columns and illustrative demo data.*
 
 ### Screen Buoy — your keyboard, your whole desktop
 
